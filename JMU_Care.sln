@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JMU_Care", "JMU_Care.csproj", "{79B00D85-03C3-4B5F-89B3-F34268EBEB2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79B00D85-03C3-4B5F-89B3-F34268EBEB2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B00D85-03C3-4B5F-89B3-F34268EBEB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B00D85-03C3-4B5F-89B3-F34268EBEB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B00D85-03C3-4B5F-89B3-F34268EBEB2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBD7AD23-D12A-4AA6-96CC-24FBF9548E51}
+	EndGlobalSection
+EndGlobal
